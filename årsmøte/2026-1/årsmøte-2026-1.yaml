@@ -1,0 +1,52 @@
+---
+
+Tittel: Ekstraordinært årsmøte 2026-1
+Tidspunkt: 2026-08-19 19:00
+Sted: Bønsmoen Skole
+Status: PROTOKOLL
+
+#Oppmøte:
+#  Antall stemmeberettigede: 
+
+Saker:
+  - Tittel: Åpning
+    Undersaker:
+      - Tittel: Opptelling av stemmeberettigede
+        Beskrivelse: |
+          De stemmeberettigede registreres ved oppmøte.
+        Kommentar: Det er 11 registrerte stemmeberettigede tilstede.
+
+      - Tittel: Valg av møteleder, referent og to protokollunderskrivere
+        Beskrivelse: Styret foreslår at Morten leder det ekstraordinære årsmøtet.
+        Kommentar: Morten Hermansen leder møtet og fører referat, Åse og Susanne signerer protokollen.
+
+  - Tittel: Godkjenning av innkalling
+    Forslag:
+      - Tittel: Innkalling godkjennes
+        Beskrivelse: |
+          Innkalling godkjennes uten kommentarer.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 11
+          Totalt antall stemmer: 11
+
+  - Tittel: Valg av nytt styremedlem
+    Beskrivelse: |
+      Styret mistet sin kasserer når Mikkel trakk seg i <s>høst</s> vår. Vi ser derfor behov for å få inn et nytt styremedlem som blir sittende frem til valget ved neste ordinære årsmøte.
+
+    Forslag:
+      - Type: Styrets innstilling
+        Tittel: Anna Seland
+        Beskrivelse: Styret har snakket med Anna Seland, som gjerne stiller.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 11
+          Totalt antall stemmer: 11
+
+Signaturer:
+  - Navn: Morten Hermansen
+    Rolle: Møteleder og referent
+
+  - Navn: Susanne Skansgård
+  
+  - Navn: Åse Marie Moen

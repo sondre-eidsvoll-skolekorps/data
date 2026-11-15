@@ -1,0 +1,302 @@
+---
+
+Tittel: Årsmøte 2026
+Tidspunkt: 2026-02-25 18:30
+Sted: Bønsmoen Skole
+Status: PROTOKOLL
+
+Oppmøte:
+  Antall stemmeberettigede: 16
+
+Saker:
+  - Tittel: Åpning
+    Undersaker:
+      - Tittel: Opptelling av stemmeberettigede
+        Beskrivelse: |
+          De stemmeberettigede registreres ved oppmøte.
+        Kommentar: Det er 16 registrerte stemmeberettigede tilstede.
+
+      - Tittel: Valg av møteleder, referent og to protokollunderskrivere
+        Beskrivelse: Styret foreslår at Morten leder årsmøtet.
+        Kommentar: Morten Hermansen leder møtet, Åse Marie Moen fører referat, Line Karlsen og Eva Kristin Kjæreng signerer protokollen.
+
+  - Tittel: Godkjenning av innkalling
+    Forslag:
+      - Tittel: Innkalling godkjennes
+        Beskrivelse: |
+          Innkalling godkjennes med kommentar om at sakspapirene kom noe sent.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+  - Tittel: Årsberetning
+    Beskrivelse: |
+      Se [vedlagt årsberetning for 2025](/drift/2025/arsberetning).
+
+    Benkeforslag:
+      - Tittel: Årsberetningen godkjennes
+        Beskrivelse: |
+          Årsberetningen godkjennes med følgende korreksjoner:
+          * Det skal stå at det _ikke forventes overskudd_ i stedet for at det _ikke forventes underskudd_ under kostnadsberegningen for sommerturen.
+          * Mikkel skal bare oppføres én gang i styrebesetningen.
+          * Mathias sitt navn fulle navn er Mathias Torgersen Dahlin.
+          
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+
+  - Tittel: Vedtektsendringer
+    Beskrivelse: |
+      Styret foreslår å endre flere av punktene i [korpsets vedtekter](/info/vedtekter).
+      Se [vedlagt forslag til vedtektsendringer](/arsmote/2026/vedtektsendringer).
+
+    Forslag:
+      - Type: Styrets innstilling
+        Tittel: Punkt 4.4.5
+        Beskrivelse: Presisere antall varamedlemmer. Endre ordlyden fra minst 2 til 2-3 varamedlemmer.
+        Beslutning: 
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+      - Type: Styrets innstilling
+        Tittel: Punkt 5.1
+        Beskrivelse: Varamedlemmene har de siste årene vært svært aktive i korpsets drift. Styret foreslår derfor at også varamedlemmene bør ha en fordel av å stille opp. Vi foreslår derfor 50% avslag på medlemskontingenten.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+      - Type: Styrets innstilling
+        Tittel: Punkt 5.3.2
+        Beskrivelse: Styret forslår å gjøre endringer i tillitsvalgt-ordningen, slik at hver gruppe har sin representant.
+        Beslutning:
+          Valgt: false
+
+    Benkeforslag:
+      - Tittel: Punkt 5.3.2 omformulert
+        Beskrivelse: |
+          Med utgangspunkt i styrets innstilling:
+          > Aspirant-, junior- og hovedkorps velger en trivselsleder for hvert korps.
+          > I tillegg stemmer musikantene frem to tillitsvalgte,
+          > som skal ta opp relevante saker med de andre musikantene og som stiller på relevante styremøter.
+          > Disse representantene velges på første øvelse etter årsmøtet.
+          > Trivselsledere rapporterer til tillitsvalgte.Tillitsvalgte velges for et år av gangen.
+          
+          Ble vedtaksforslaget omformulert til:
+          > Aspirant-, junior- og hovedkorps velger en trivselsleder for hvert korps.
+          > I tillegg stemmer alle musikantene frem to tillitsvalgte blant alle medlemmene.
+          > Disse skal ta opp relevante saker med de andre musikantene og stille på relevante styremøter.
+          > Disse representantene velges på første øvelse etter årsmøtet.
+          > Trivselslederne rapporterer til de tillitsvalgte. Tillitsvalgte og trivselsledere velges for et år av gangen.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+    Kommentar: |
+      Styret minnes på å notere hvilken dato vedtektene er oppdatert nederst i vedtektene.
+
+  - Tittel: Regnskap
+    Beskrivelse: |
+      Se [vedlagt regnskap for 2025](/drift/2025/regnskap) med kommentarer fra styret og revisjonsrapport.
+    Forslag:
+      - Type: Styrets innstilling
+        Tittel: Regnskap godkjennes
+        Beskrivelse: Regnskap og revisjonsrapport for 2025 godkjennes uten endringer.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+    Kommentar: |
+      Som nevnt i årsberetningen har styret jobbet med kontoplanen og laget tydelige rutiner for å tydeliggjøre inntekter og utgifter opp mot korpsets kjerneområder.
+      Konto 3220 _Inntekt spilleoppdrag_ tydeliggjør inntekten musikantene selv har generert ved å spille musikk.
+      Konto 3205 viser inntekt fra kiosksalg fra salgsvogna vår, og konto 3120 fra andre dugnader.
+
+      Dugnadene har ofte utgifter knyttet til seg også, som kjøp av kaker fra NordKak på konto 4000, kortavgift (7770), Vippsavgift (7771), Spondavgift (7772) på kontingent og loddsalg.
+      Innkjøp av varer til kiosken (5996) har blitt dyrere enn tidligere.
+
+      Utgifter til dirigent i forbindelse med seminarer og rekrutering burde vært ført mot henholdsvis 5990 og 5995. Styret passer på at det blir gjort i 2026.
+      Tilsvarende burde mat på seminar ligge på 5990 i stedet for 7162.
+
+      Det ble bestilt og betalt bassklarinett i februar 2025.
+      Med en pris på 43&nbsp;800,- er denne ikke ført på utgiftskontoen 6556 _Innkjøp instrument_, men i stedet på eiendelskontoen 1200 _Instrumenter_ i balanserapporten.
+      Dette instrumentet skal avskrives over 10 år, og verdien vil over de neste årene gradvis trekkes fra 1200 og føres på utgiftsposten 6050 _Nedskriv. varige driftsmidler og immat. eiendeler_.
+      Instrumentet er foreløpig ikke levert.
+
+      Det ble stilt spørsmål til hvorfor korpshengeren ikke er avskrevet i 2025. Morten følger opp med Anne.
+
+      En teknisk feil i visningen gjorde at beløpene i kolonnen inngående i balanserapporten var feil. Endring og utgående var riktig.
+
+      Det ble stilt spørsmål om hvordan man tenker å håndtere fakturaer som ikke blir betalt.
+      Styret viser til første innstilling under Budsjett som et tiltak for å gjøre det enklere å betale.
+      I tillegg vurderes det å aktivere inkassofunksjonen i Visma eAccounting. Det blir da Visma Amili AS som håndterer purring og eventuelle videre tiltak.
+
+      Styret ble minnet på å håndtere forsikringssaker ettersom det utgjør flere tusen kroner. For kondemnert klarinett opp mot 16&nbsp;000,-.
+      Foreldrelsesfristen er 1 år, enten fra hendelsestidspunktet eller faktureringstidspunktet.
+
+    Oppfølging:
+      Avskriving av korpshengeren ble rett og slett glemt for 2025. Planen er å avskrive korpshengeren to ganger i 2026.
+      En gang 01.01.2026 og andre gangen som normalt 31.12.2026.
+      Bassklarinetten ble avskrevet 31.12.2025, men vi skulle egentlig ikke starte avskrivingen før den leveres.
+      For å veie opp for dette avventer vi avskriving til 2027, forutsatt at den leveres i 2026.
+
+      Visning av inngående beløp er rettet.
+
+  - Tittel: Budsjett
+    Beskrivelse: |
+      Se [vedlagt budsjett for 2026](/drift/2026/budsjett) hvor det er tatt høyde for økt medlemskontingent.
+
+    Forslag:
+      - Type: Styrets innstilling
+        Tittel: Månedlig medlemskontingent
+        Beskrivelse: |
+          Pr idag sendes faktura for medlemskontingent ut to ganger i året. Styret ønsker å legge tilrette for at man kan be om å få betale kontingenten månedlig i stedet.
+          Det forutsettes da at det registreres en repeterende betaling i banken slik at det ikke fører til unødvendig oppfølging og purring. Styret forbeholder seg retten til å avslå eller gå tilbake til halvårlig fakturering på individuell basis.
+
+          Kontingenten bør derfor oppgis i månedsbeløp, og settes til beløp delbart på 10 for å unngå desimaler ved familierabatt.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+      - Type: Styrets innstilling
+        Tittel: Medlemskontingent
+        Beskrivelse: Medlemskontingenten økes fra 350,- i måneden (2.100,- i halvåret) til 400,- i måneden (2.400,- i halvåret) fra 01.07.2026. Familierabatt på 20% for første søsken og 50% for øvrige opprettholdholdes.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+      - Type: Styrets innstilling
+        Tittel: Budsjett godkjennes
+        Beskrivelse: Budsjett for 2026 godkjennes uten endringer.
+        Beslutning:
+          Valgt: false
+
+    Benkeforslag:
+      - Tittel: Budjettet godkjennes med endringer
+        Beskrivelse: |
+          Konto for kurs 6860 endres fra -2&nbsp;000,- til -50&nbsp;000,- for å dekke både styrekurs som allerede er gjennomført i januar og støtte for musikanter som ønsker å delta på spillekurs til sommeren.
+          Budsjettet godkjennes med denne endringen.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+    Kommentar: |
+      Etter spørsmål ble det presisert at det kun er de som ønsker det som får månedlig faktura.
+      De som ikke tar kontakt får faktura halvårlig som før. Disse blir sendt ut automatisk i februar og september.
+
+      Vi bør kanskje skal legge inn i budsjettet at ungdommene skal
+      få sponset halvparten av sommerkursavgiften. Man kan også søke musikkrådet
+      og fritidskassa om å dekke resten. Tidligere har korpset tatt imot felles påmeldinger fra
+      medlemmene og sendt inn felles påmelding fra hvert korps. Korpset kan søke
+      sommerkursfond.
+
+  - Tittel: Valg
+    Beskrivelse: |
+      Mikkel, Susanne og Åse ble valgt for to år i fjor. Tre styremedlemmer skal dermed ikke velges i år. Styreleder skal velges hvert år.
+
+      Fra valgkomiteen:
+
+      > Valgkomiteen har i sitt arbeid de siste ukene fokusert på å få frem alle stemmene i det sittende styret.
+      > Gjennom samtaler med hver og en, inkludert varamedlemmer, tegnet det seg av et ønske om å inkludere foreldre fra den yngre musikantgruppen mer.
+      > Dette er en helhetsvurdering som er positiv for trivsel og engasjement både for musikant og foresatte.
+      > Valgkomite anser dette som gode kandidater for Søndre Eidsvoll Skolekorps og for abeidet i årene fremover.
+      >
+      > Valgkomiteen som helhet stiller seg bak denne innstillingen.
+      >
+      > Alle kandidater under er forespurt og har bekreftet at de stiller seg bak.
+
+      Styret har ikke funnet kandidater til valgkomiteen og har dermed ingen innstilling.
+
+    Forslag:
+      - Type: Valgkommiteens innstilling
+        Beskrivelse: |
+          <table class="full data">
+            <cols><col /><col style="width: 8em" /><col style="width: 8em" /></cols>
+            <tbody>
+            <tr class="group"><td colspan="3">Styreleder</td></tr>
+            <tr><td>Morten Hermansen (gjenvalg)</td><td>Hovedkorpset</td><td>1 år</td></tr></tbody>
+            <tbody class="spacer"><tr><td></td></tr></tbody>
+            <tbody>
+              <tr class="group"><td colspan="3">Styremedlemmer</td></tr>
+              <tr><td>Line Karlsen</td><td>Hovedkorpset</td><td>2 år</td></tr>
+              <tr><td>Stian Langerud</td><td>Hovedkorpset</td><td>2 år</td></tr>
+              <tr><td><em>Mikkel Vestre (ikke på valg)</em></td><td>Hovedkorpset</td><td>1 år igjen</td></tr>
+              <tr><td><em>Susanne Skansgård (ikke på valg)</em></td><td>Hovedkorpset</td><td>1 år igjen</td></tr>
+              <tr><td><em>Åse Marie Moen (ikke på valg)</em></td><td>Juniorkorpset</td><td>1 år igjen</td></tr>
+            </tbody>
+            <tbody class="spacer"><tr><td></td></tr></tbody>
+            <tbody>
+              <tr class="group"><td colspan="3">Varamedlemmer</td></tr>
+              <tr><td>Linn Kulsvehagen (gjenvalg)</td><td>Hovedkorpset</td><td>1 år</td></tr>
+              <tr><td>Charlotte Moe-Angell</td><td>Aspirantkorpset</td><td>1 år</td></tr>
+            </tbody>
+          </table>
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+    Benkeforslag:
+      - Tittel: Valgkomite
+        Beskrivelse: |
+          * Lasse Thing Helseth melder seg som leder av valgkomiteen.
+          * Nathalie Johannesen stiller gjerne opp for å bidra til kontinuitet.
+          * Hilde Torgersen Dahlin lot seg også overtale til å bli med.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+      - Tittel: Revisorer
+        Beskrivelse: |
+          John Yngve Malum har sagt ja til å revidere regnskapet for 2026. Styret får fullmakt til å finne en person til som er villig i løpet av året.
+        Beslutning:
+          Valgt: true
+          Antall stemmer for: 16
+          Totalt antall stemmer: 16
+
+    Kommentar: |
+      Styret forklarte at de ønsker å bruke alle de ulike foreldre på et av deres
+      interessefelt, hvis de er gode på økonomi, arrangering eller logistikk for eksempel.
+
+  - Tittel: Eventuelt
+    Kommentar: Ingen saker ble meldt til eventuelt.
+
+
+Dokumenter:
+  vedtektsendringer:
+    Tittel: Vedtekter etter endringsforslag
+    File: vedtektsendringer.md
+
+
+Lenker:
+  Årsberetning 2025:
+    Url: /drift/2025/arsberetning
+
+  Regnskap 2025:
+    Url: /drift/2025/regnskap
+
+  Budsjett 2026:
+    Url: /drift/2026/budsjett
+
+  Vedtektsendringer:
+    Url: /arsmote/2026/vedtektsendringer
+
+
+Signaturer:
+  - Navn: Morten Hermansen
+    Rolle: Møteleder
+  
+  - Navn: Åse Marie Moen
+    Rolle: Referent
+
+  - Navn: Line Karlsen
+
+  - Navn: Eva Kristin Kjæreng
