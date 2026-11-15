@@ -1,0 +1,6 @@
+service-account-key.json
+bestillinger/bestilling_*
+devices/device_*
+grupper/gruppe_*
+personer/familier.yaml
+personer/personer.yaml

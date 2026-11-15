@@ -1,0 +1,34 @@
+---
+id: tusenfryd-2026
+navn: Tusenfrydstevnet 2026
+langt navn: Tusenfrydstevnet 2026 - Billettbestilling
+
+hero:
+  img: "/site/hero/tusenfrydstevnet.png"
+  size: TINY
+  colorLeft: "#2e6ec2"
+  colorRight: "#6e6b4a"
+  position: 50
+
+beskrivelse: |
+  Blah blah blah...
+
+musikant:
+  - id: stevnedeltakelse
+    navn: Stevnedeltakelse
+    varianter:
+      - id: billett_og_medalje
+        navn: Billett og medalje (250,-)
+        pris: 250
+
+produkter:
+  - id: ekstrabillett
+    navn: Ekstrabillett (305,-)
+    varianter:
+      - id: ekstrabillett
+        navn: Ekstrabillett (305,-) 
+        pris: 305
+
+adminGroups:
+  - styret
+
