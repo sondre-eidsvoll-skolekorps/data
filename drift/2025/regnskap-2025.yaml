@@ -1,0 +1,210 @@
+---
+Resultat:
+  "3120":
+    Beløp: 62223.46
+  "3205":
+    Beløp: 203567.53
+  "3211":
+    Beløp: 83774.07
+  "3220":
+    Beløp: 45600.00
+  "3440":
+    Beløp: 155868.00
+  "3900":
+    Beløp: 653.00
+  "3920":
+    Beløp: 231782.68
+  "3940":
+    Beløp: 250650.00
+  "3941":
+    Beløp: 95123.00
+  "3942":
+    Beløp: 12750.00
+  "3945":
+    Beløp: 33232.10
+  "3948":
+    Beløp: 68984.00
+  "3950":
+    Beløp: 221024.00
+  "3952":
+    Beløp: 23360.00
+  "3953":
+    Beløp: 27039.00
+  "4000":
+    Beløp: -9700.00
+  "5920":
+    Beløp: -42859.00
+  "5991":
+    Beløp: -562200.00
+  "5992":
+    Beløp: -101073.00
+  "5993":
+    Beløp: -19480.46
+  "5996":
+    Beløp: -141566.52
+  "5997":
+    Beløp: -159558.00
+  "6010":
+    Beløp: -22056.66
+  "6050":
+    Beløp: -44281.38
+  "6550":
+    Beløp: -30866.80
+  "6555":
+    Beløp: -7737.00
+  "6556":
+    Beløp: -29375.00
+  "6561":
+    Beløp: -13886.00
+  "6570":
+    Beløp: -47372.25
+  "6580":
+    Beløp: -89245.00
+  "6581":
+    Beløp: -1064.70
+  "6590":
+    Beløp: -278.00
+  "6620":
+    Beløp: -25382.50
+  "6700":
+    Beløp: -267178.00
+  "6770":
+    Beløp: -50802.50
+  "6800":
+    Beløp: -1597.20
+  "6810":
+    Beløp: -34548.24
+  "6890":
+    Beløp: -1988.57
+  "7140":
+    Beløp: -22173.71
+  "7162":
+    Beløp: -28678.98
+  "7395":
+    Beløp: -0.46
+  "7415":
+    Beløp: -1000.00
+  "7416":
+    Beløp: -18184.00
+  "7420":
+    Beløp: -2468.55
+  "7430":
+    Beløp: -2893.00
+  "7500":
+    Beløp: -2406.00
+  "7770":
+    Beløp: -6007.09
+  "7771":
+    Beløp: -2392.99
+  "7772":
+    Beløp: -16313.08
+  "7773":
+    Beløp: -1395.00
+  "7799":
+    Beløp: -2126.00
+  "8055":
+    Beløp: 5902.00
+Balanse:
+  "1200":
+    inn: 221923.05
+    ut: 221441.67
+  "1288":
+    inn: 29900.00
+    ut: 29900.00
+  "1290":
+    inn: 54306.68
+    ut: 32250.02
+  "1500":
+    inn: 23000.00
+    ut: 70120.00
+  "1509":
+    inn: 9170.13
+    ut: 9170.13
+  "1579":
+    inn: -25500.00
+    ut: -12000.00
+  "1900":
+    inn: 8070.00
+    ut: 12769.41
+  "1924":
+    inn: 498744.82
+    ut: 380684.48
+  "1926":
+    inn: 159228.48
+    ut: 164444.48
+  "1927":
+    inn: 2495.99
+    ut: 333.00
+  "1928":
+    inn: 6435.26
+    ut: 7085.04
+  "1935":
+    inn: 0.00
+    ut: 283.00
+  "2050":
+    inn: -1114812.71
+    ut: -826209.91
+  "2400":
+    inn: 6690.00
+    ut: -80100.90
+  "2960":
+    inn: 120617.00
+    ut: 0.00
+  "2990":
+    inn: -268.70
+    ut: -10170.42
+
+Uttalelser:
+  Styrets kommentarer:
+    Uttalelse: |
+      I april ble det lagt ned en god del jobb med å modernisere regnskapsføringen for korpset.
+      Det er aktivert elektronisk mottak av faktura fra andre bedrifter (EHF). Visma AutoPay er aktivert, slik at innkommende fakturaer kan bokføres og sendes til utbetaling direkte fra regnskapet.
+      Totalt sett skaper det lavere risiko for feil når man slipper å skrive av beløp og kid-nummer i flere omganger.
+
+      Det var imidlertidig en del tekniske utfordringer når vi tok i bruk Visma AutoPay, hvor regninger først ble liggende i et låst limbo fordi signering ikke fungerte som det skulle.
+      Deretter fikk vi problemer med at en del leverandører i leverandørregisteret vårt var satt opp mangelfullt, så banken avviste betalingene.
+      Dette førte til at vi var nødt til å kreditnota-føre og så legge inn fakturaene på nytt i flere omganger, som ble nokså rotete i regnskapet.
+
+      Når vi sendte ut fakturaer oppdaget vi også litt for sent at f.eks. egenandel-produktet, brukt for Tusenfrydstevnet, var koblet opp mot en generell inntektskonto og ikke 3940 Egenandeler.
+      Dette er korrigert med å flytte totalbeløpet til riktig konto i ettertid.
+
+      Korpset har hele 5 bankkontoer. Det anser vi som unødvendig og kommer til å kutte ned til en driftskonto og en sparekonto.
+
+      Det er skrevet rutiner for bruk av kontoplanen, med lærdom fra regnskapsføring i 2025 og med det håp at 2026-regnskapet skal bli presist, ryddig og tydelig.
+
+  Revisjonsrapport:
+    Uttalelse: |
+      Vi har i år revidert regnskapet basert på Visma sitt eaccounting regnskapssystem, og ikke som
+      tidligere i papirformat. Dette har også gitt utfordringer for revisjon, da vi ikke har god kunnskap om
+      systemet.
+      
+      Revisjon er utført som kontroll av bilag, kontroll av bankkonti utskrifter og systemets balanse- og
+      regnskapsrapport.
+
+      Førsteinntrykket av regnskapet for 2025 er at det er rotete ført. I forklaring fra leder bekreftes det at
+      det var registreringsproblemer og en del feilføring i første kvartal. Noe skyltes også system feil.
+      Enkelte transaksjoner var også i oppstart knyttet til feil konti, som da fører til nye transaksjoner og
+      flere korrigeringer.
+
+      Vil anbefale at man også skiller mellom bilagsregistrering og rene transaksjonsregistreringer, det
+      forenkler oversikten.
+      Oppfatter også på leder at kassere ikke har vært koplet på tidsnok, og at leder har dobbeltrolle som
+      kasserer og leder. Denne rolleblandingen frarådes på det sterkeste, da det alltid bør være to
+      uavhengige kilder til økonomioppfølgingen i styret. Da oppfatter vi at regnskapsfører ikke er endel av
+      styret!
+      
+      Dette må styret få på plass umiddelbart!
+      I dag blir belastningen for stor slik at blant annet mange av fakturaene betales for sent, ofte 7- 20
+      dager etter forfall og helt ekstremt tilfelle 95 dager etter forfall. Det er ikke belastet
+      forsinkelsesrenter for dette.
+      
+      Vi registrerer også at det er i bruk 5 ulike konti for korpset, her bør styret gå inn og samordne til en
+      sparekonto og en brukskonto, evt. en turkonto som tillegg.
+      Uklarhetene og rotet til tross er det ikke funnet avvik i regnskapet. Alle bilag og bankkonti er
+      kontrollert.
+      
+      Kontantkasse på kr. 12769,41 er ikke kontrollert, men bekreftet oppbevares hos leder
+      Regnskapet er revidert og funnet i orden. Banksaldo for samtlige konti i regnskapet er korrekt ved
+      årsslutt.
+
+      Eidsvoll 25.2.26

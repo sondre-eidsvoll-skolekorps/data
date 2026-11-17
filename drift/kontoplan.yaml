@@ -1,0 +1,364 @@
+
+Inntekter:
+  Medlemskontingent:
+    Kontoer:
+      3920:
+        Navn: Medlemskontingenter
+
+  Egenandeler:
+    Kontoer:
+      3940:
+        Navn: Egenandeler
+        Beskrivelse: |
+          Egenandel for f.eks sommertur eller Tusenfrydstevnet innbetalt av medlemmene.
+
+  Dugnader:
+    Kontoer:
+      3120:
+        Navn: Andre dugnadsrelaterte inntekter
+      3205:
+        Navn: Kiosksalg
+        Beskrivelse: |
+          Salgsinntekter fra salgsvogn og telt blant annet i parken på 17. mai.
+          Denne dagen er korpsets hoveddugnad og har derfor fått sine egne kontoer på regnskapet både på inntektssiden og utgiftssiden.
+          Kontoen representerer salgsinntekten og representerer ikke overskudd av dugnaden. Utgifter til salgsvarer og liknende er ført i konto 5996.
+
+      3211:
+        Navn: Andre interne salg
+
+      3220:
+        Navn: Inntekt spilleoppdrag
+      3250:
+        Navn: Inntekter fra egne arrangementer
+      3900:
+        Navn: Andre driftsrelaterte inntekter
+
+  Kommunal støtte:
+    Kontoer:
+      3400:
+        Navn: Kommunal støtte, dirigent-støtte
+      3440:
+        Navn: Kommunal støtte
+
+  Annen støtte:
+    Budsjett:
+      - Bingo
+      - Grasrotandel
+      - VO-midler
+    Kontoer:
+      3942:
+        Navn: VO midler
+        Beskrivelse: |
+          Korpset mottar voksenopplæringsmidler via NMF basert på antall timer øvelse med dirigent, så lenge 4 eller flere musikanter i alderen 14 år eller mer er tilstede.
+
+          Les mer på [NMF sin side om voksenopplæringsmidler](https://www.korps.no/nyttig-innhold/voksenopplaeringsmidler).
+
+      3945:
+        Navn: Norsk Tipping - Grasrotandel
+        Beskrivelse: |
+          Del av overskuddet til Norsk Tipping fordelt basert på bakgrunn av spillerenes valgte organisasjoner.
+
+          Les mer på [Norsk Tipping sin side om Grasrotandelen](https://www.norsk-tipping.no/grasrotandelen).
+
+      3948:
+        Navn: Lotterier, bingo etc
+
+      3950:
+        Navn: Støtte
+      
+      3952:
+        Navn: Frifond-støtte
+
+      3953:
+        Navn: Bingostøtte
+
+  Finansielle inntekter:
+    Budsjett:
+      - Mva kompensasjon
+
+    Kontoer:
+      3941:
+        Navn: MVA-kompensasjon
+        Beskrivelse: |
+          Korpset kan hver år søke om å motta kompensasjon for betalt moms forrige regnskapsår.
+          Siden vi er knyttet til NMF sender vi søknad dit, og de sender dette samordnet videre
+          på vegne av alle tilknyttede korps.
+          
+          NMF søker etter forenklet modell, som kort oppsummert fra
+          [§7 i Forskrift om merverdiavgiftskompensasjon for frivillige organisasjoner](https://lovdata.no/forskrift/2018-10-23-1600/§7)
+          utgjør 8% av driftsutgiftene våres. Ordningen er avhengige av Stortingets bevilgninger og kan i følge [§5](https://lovdata.no/forskrift/2018-10-23-1600/§5)
+          føre til en prosentvis lik avkortning for alle de søkende organisasjonene.
+
+          Les mer på [NMF sin side om Momskompensasjon](https://www.korps.no/nyttig-innhold/momskompensasjon).
+
+      8055:
+        Navn: Renteinntekt
+
+
+Utgifter:
+  Instrumenter, noter, o.l.:
+    Budsjett:
+      - Noter
+      - Instrument innkjøp
+      - Reparasjoner av instrumenter
+    Kontoer:
+      6555:
+        Navn: Noter
+
+      6556:
+        Navn: Instrument innkjøp
+
+      6620:
+        Navn: Reparasjon og vedlikehold instrument
+
+      6550:
+        Navn: Driftsmaterialer korps (fliser, oljer, seler etc.)
+
+  Uniformer:
+    Budsjett:
+      - Fritidsuniform
+      - Uniformer
+
+    Kontoer:
+      6580:
+        Navn: Uniformer
+
+      6581:
+        Navn: Uniformstilbehør
+
+      6570:
+        Navn: Fritidsantrekk
+
+  Dirigenter:
+    Budsjett:
+      - Kostnad dirigent
+    Kontoer:
+      6700:
+        Navn: Kostnad Dirigent
+
+  Opplæring:
+    Budsjett:
+      - Aspirant støtte kulturskolen
+      - Instruktørutgifter
+
+    Kontoer:
+      5997:
+        Navn: Utgifter til Kulturskolen
+        Beskrivelse: |
+          Det er besluttet at korpset skal dekke musikantenes instrumentopplæring hos Eidsvoll Kulturskole.
+
+      6770:
+        Navn: Kostnad instruktører
+        Beskrivelse: |
+          De eldste musikantene i korpset har tatt instruktør- og dirigentkurs og har instrumentopplæring med
+          de yngste musikantene som ikke får tilbud om instrumentopplæring gjennom Eidsvoll Kulturskole.
+
+#      6780:
+#        Navn: Lønn selvstendig næringsdrivende
+
+  Rekruttering og markedsføring:
+    Budsjett:
+      - Rekruttering
+      - Reklamekostnad
+
+    Kontoer:
+      5995:
+        Navn: Rekruttering
+
+      6820:
+        Navn: Trykksaker
+
+  Arrangementer og sosialt:
+    Budsjett:
+      - Utgifter seminarer
+      - Sommertur
+      - Stevner
+      - Konserter/teater
+      - Møter, kurs, oppdatering etc.
+      - Reisekostnader, ikke oppgavepliktig
+      - Gaver
+      - Gaver, fradragsberettigede
+      - Gaver, ikke fradag
+
+    Kontoer:
+      5990:
+        Navn: Utgifter seminarer
+
+      5991:
+        Navn: Sommertur
+
+      5992:
+        Navn: Stevner
+
+      5993:
+        Navn: Sosiale kostnader
+
+      6860:
+        Navn: Møter, kurs, oppdatering etc.
+
+      7140:
+        Navn: Reisekostnader
+
+      7162:
+        Navn: Bevertning
+
+      7415:
+        Navn: Påmelding serier, turneringer etc
+
+      7420:
+        Navn: Gaver, fradragsberettigede
+
+      7416:
+        Navn: Konsertkostnader
+
+      7430:
+        Navn: Gaver, ikke fradrag
+
+  Utgifter ved dugnader:
+    Budsjett:
+      - Utgifter 17.mai
+      - Salgsvogn/Henger
+    Kontoer:
+      4000:
+        Navn: Innkjøp varer og halvfabrikata, høy avgiftssats
+
+      5996:
+        Navn: Utgifter til kiosk (Salgsvogn)
+        Beskrivelse: |
+          Utgifter ved innkjøp av varer for salg i salgsvogn og telt blant annet i parken på 17. mai.
+
+      6561:
+        Navn: Utstyr salgsvogn
+        Beskrivelse: |
+          Vedlikehold og oppgradering av salgsvogn og korpshenger.
+
+
+  Administrative kostnader:
+    Budsjett:
+      - Forsikringer NMF
+      - Datakostnad
+      - Bank og kortgebyr
+      - Kostnader Vipps/Spond
+
+    Kontoer:
+      7395:
+        Navn: Øreavrunding
+
+      7500:
+        Navn: Forsikringspremier
+
+      7770:
+        Navn: Bank og kortgebyrer
+
+      7771:
+        Navn: Kostnad Vipps
+
+      7772:
+        Navn: Kostnad Spond
+        Beskrivelse:
+          Spond er i utgangspunktet gratis å bruke, men de tar en prosentandel av alle betalingsforespørsler som sendes gjennom systemet.
+
+      7773:
+        Navn: Zettle-kostnader
+
+      6800:
+        Navn: Kontorrekvisita (Res)
+
+      6810:
+        Navn: Datakostnad
+        Beskrivelse: |
+          Utgifter til regnskapssystem.
+      
+      5920:
+        Navn: Forsikring og Kontingent NMF
+
+  Annet:
+    Budsjett:
+      - Nedskriving inst. og salgsvogn
+      - Driftsmaterialer
+      - Rekvisita
+      - Annet driftmaterialer
+      - Postboks
+      - Sparing
+
+    Kontoer:
+      6010:
+        Navn: Avskrivninger transp.midler, maskiner og inventar
+
+      6050:
+        Navn: Nedskriv. varige driftsmidler og immat. eiendeler
+
+      6590:
+        Navn: Annet driftsmateriel
+
+      6890:
+        Navn: Annen kostnad (diverse)
+
+      7410:
+        Navn: Kontingent, ikke fradragsberettiget
+
+      7799:
+        Navn: Annen kostnad, ikke fradragsberettige
+
+
+
+Eiendeler:
+  Anleggsmidler:
+    Kontoer:
+      1200:
+        Navn: Instrumenter
+      
+      1288:
+        Navn: Korpshengeren
+      
+      1290:
+        Navn: Salgsvogna
+
+  Omløpsmidler:
+    Kontoer:
+      1500:
+        Navn: Kundefordringer
+
+      1509:
+        Navn: Ikke reskontroførte Kundefordringer
+
+      1579:
+        Navn: Andre kortsiktige fordringer
+
+      1900:
+        Navn: Kontanter
+
+      1924:
+        Navn: Driftskonto
+
+      1926:
+        Navn: Sparekonto
+
+      1927:
+        Navn: Ekstra Sparekonto
+      
+      1928:
+        Navn: Ekstra konto 1
+      
+      1935:
+        Navn: Ekstra konto 2
+
+Egenkapital og gjeld:      
+  Egenkapital:
+    Kontoer:
+      2050:
+        Navn: Annen egenandel
+      
+  Gjeld:
+    Kontoer:
+      2400:
+        Navn: Leverandørgjeld
+
+      2960:
+        Navn: Annen påløpt kostnad
+      
+      2990:
+        Navn: Annen kortsiktig gjeld
+  
+
+

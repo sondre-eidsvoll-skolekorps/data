@@ -1,0 +1,175 @@
+---
+Resultat:
+  3120: # Salgsinntekt tjenester, avgiftsfri
+    Beløp: 18250.00
+
+  3205: # 17. mai-salg
+    Beløp: 176310.00
+
+  3211: # Andre interne salg
+    Beløp: 52740.00
+
+  3250: # Inntekter fra egne arrangementer
+    Beløp: 80857.26
+
+  3400: # Kommunal støtte, dirigent-støtte
+    Beløp: 50000.00
+
+  3440: # Kommunal støtte
+    Beløp: 107421.00
+
+  3900: # Andre driftsrelaterte inntekter
+    Beløp: 9853.86
+
+  3920: # Medlemskontingenter
+    Beløp: 160933.34
+
+  3940: # Egenandeler
+    Beløp: 59288.00
+
+  3941: # MVA-kompensasjon
+    Beløp: 105554.00
+
+  3942: # VO midler
+    Beløp: 11925.00
+
+  3945: # Norsk Tipping - Grasrotandel
+    Beløp: 25483.84
+
+  3948: # Lotterier. bingo etc
+    Beløp: 147069.00
+
+  3950: # Støtte
+    Beløp: 367379.00
+
+  5920: # Forsikring og Kontingent NMF
+    Beløp: -37235.00
+
+  5990: # Utgifter seminarer
+    Beløp: -87902.31
+    # Inkluderer Lillehammerturen.
+
+  5992: # Stevner
+    Beløp: -33700.00
+
+  5993: # Sosiale kostnader
+    Beløp: -30475.66
+
+  5995: # Rekruttering
+    Beløp: -1200.00
+
+  5996: # Utgifter 17.mai (Salgsvogn)
+    Beløp: -52031.61
+
+  5997: # Aspirant støtte kulturskolen
+    Beløp: -132510.00
+
+  6050: # Nedskriv. varige driftsmidler og immat, eiendeler
+    Beløp: -67602.66
+
+  6550: # Driftsmaterialer korps (fliser, oljer, seler etc.)
+    Beløp: -20420.95
+
+  6555: # Noter
+    Beløp: -9163.55
+
+  6556: # Instrument innkjøp
+    Beløp: -150000.00
+
+  6561: # Utstyr salgsvogn
+    Beløp: -57441.09
+
+  6570: # Fritidsantrekk
+    Beløp: -39752.25
+
+  6580: # Uniformer
+    Beløp: -66960.00
+
+  6581: # Uniformstilbehør
+    Beløp: -19030.00
+
+  6590: # Annet driftsmateriel
+    Beløp: -9410.62
+
+  6620: # Reparasjon og vedlikehold instrument
+    Beløp: -9726.30
+
+  6700: # Kostnad Dirigent
+    Beløp: -249602.00
+
+  6770: # Kostnad instruktører
+    Beløp: -51862.50
+
+  6780: # Lønn selvstendig næringsdrivende
+    Beløp: -50000.00
+    # Espelo + Torsdagsjam
+
+  6800: # Kontorrekvisita (Res)
+    Beløp: -1333.80
+
+  6810: # Datakostnad
+    Beløp: -10999.33
+
+  6820: # Trykksaker
+    Beløp: -1548.00
+
+  6860: # Møter, kurs, oppdatering etc.
+    Beløp: -6623.00
+
+  6890: # Annen kostnad (diverse)
+    Beløp: -61465.00
+    # Div dugnad
+    # Leie panorama: 12560,-
+
+  7162: # Bevertning
+    Beløp: -10873.33
+
+  7410: # Kontingent, ikke fradragsberettiget
+    Beløp: -2200.00
+
+  7415: # Påmelding serier, turneringer etc
+    Beløp: -3500.00
+
+  7430: # Gaver, ikke fradrag
+    Beløp: -9809.80
+
+  7500: # Forsikringspremier
+    Beløp: -2236.00
+
+  7770: # Bank og kortgebyrer
+    Beløp: -2128.59
+
+  7771: # Kostnad Vipps
+    Beløp: -3540.18
+
+  7772: # Kostnad Spond
+    Beløp: -15526.34
+
+  7799: # Annen kostnad, ikke fradragsberettiget
+    Beløp: -915.00
+
+  8055: # Renteinntekter
+    Beløp: 5634.00
+
+Uttalelser:
+  Styrets kommentarer:
+    Uttalelse: | 
+      * Vellyket rekrutering har ført til høyere inntekter i medlemskontingen (3920), men også høyere utgifter til kulturskolen (5997).
+      * Mari har gjort en veldig god jobb med å sende inn søknader om støtte på vegne av korpset, som har ført til et stort fint beløp på konto 3950.
+        Disse midlene er brukt på innkjøp av instrumenter (6556) og uniformer (6580).
+      * Styret anbefaler at Bingo-støtten trekkes ut i egen konto (3951) i neste års regnskap og videre, slik at det kommer tydeligere frem hva som har kommet inn som støtte og hva som har kommet inn som resultat av dugnadsarbeid med salg av blant annet bamselodd i konto 3948. Tilsvarende bør vurderes for relevante støtteordninger som Instrumentfondet.
+      * Salgsvogn og korpshenger ble påkostet med foliering verdt ca 50.000,-. Utgifter på denne kontoen (6561) vil normalt være mye lavere.
+      * Leie av kortterminaler på ca 5.000,- ble ført på 6810 Datakostnader, men burde vært ført på 5996 Utgifter 17.mai (Salgsvogn).
+
+  Revisjonsrapport:
+    Uttalelse: |
+      Regnskapet er ryddig og oversiktlig ført. Som tidligere nevnt er det fortsatt forbedringer knyttet til attestasjon og godkjenning av fakturaer fra leder/styremedlem.
+
+      Vi registrerer også at i Visma mangler tilsynelatende noen få elektroniske bilag/underlag, men det er redegjort i systemet hva beløpene dekker.
+
+      Kasserer bør i etterkant følge opp med Visma hvorfor disse bilagene uteblir.
+
+      Regnskapet er revidert og for øvrig funnet i orden.
+
+      Eidsvoll 27.02.2025<br />
+      John Yngve Malum og May Ida Aker

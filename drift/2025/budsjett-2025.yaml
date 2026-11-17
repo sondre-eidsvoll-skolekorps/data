@@ -1,0 +1,151 @@
+Modifikasjoner:
+  Innstilling:
+    Standard: true
+    Inkluderer:
+      - Ny medlemskontingent
+
+
+Resultat:
+  3942: # Bingo
+    Beløp:  60000.00
+
+  3920: # Medlemskontingent
+    Beløp:  220000.00
+    Modifikasjon:
+      Ny medlemskontingent: 231000.00
+
+  3940: # Egenandeler
+    Beløp: 200000.00
+
+  3945: # Grasrotandel
+    Beløp:  24000.00
+
+  3400: #Kommunal støtte, dirigent-støtte
+    Beløp:  50000.00
+
+  3440: #Kommunal støtte
+    Beløp:  100000.00
+
+  3205: # Dugnader - 17. mai
+    Beløp:  170000.00
+
+  3250: # Dugnader - Egne arrangementer
+    Beløp:  50000.00
+
+  3211: # Dugnader - Andre salg
+    Beløp:  80000.00
+
+  3941: # Mva kompensasjon
+    Beløp:  80000.00
+
+  3942: # VO-midler
+    Beløp:  12000.00
+
+  3950: # Annen støtte
+    Beløp:  200000.00
+    # 60000 uniform
+    # 40000 thon - instrument bass-klarinett
+
+
+  5920: # Forsikringer NMF
+    Beløp:  -43000.00 
+
+  5990: # Utgifter seminarer
+    Beløp:  -50000.00 
+
+  5992: # Sommertur
+    Beløp:  -450000.00 
+
+#  5992: # Stevner
+#    Beløp:  -35000.00 
+
+#  Konserter/teater:
+#    Beløp:  -25000.00 
+
+  5995: # Rekruttering
+    Beløp:  -5000.00 
+
+  5996: # Utgifter 17.mai
+    Beløp:  -50000.00 
+
+  5997: # Aspirant støtte kulturskolen
+    Beløp:  -35000.00 
+
+  6050: # Nedskriving inst. og salgsvogn:
+    Beløp:  -70000.00 
+
+  6590: # Driftsmaterialer
+    Beløp:  -10000.00 
+
+  6555: # Noter
+    Beløp:  -10000.00 
+
+  6556: # Instrument innkjøp
+    Beløp:  -40000.00 
+
+  6620: # Reparasjoner av instrumenter
+    Beløp:  -40000.00
+
+  6550: # Rekvisita: #fliser++
+    Beløp:  -20000.00 
+
+  6570: # Fritidsuniform
+    Beløp:   -20000.00 
+
+  6580: # Uniformer
+    Beløp:  -30000.00 
+
+  6581: # Uniformstilbehør
+    Beløp:  -30000.00 
+
+  6800: # Annet driftmaterialer
+    Beløp:   -5000.00 
+
+  6700: # Kostnad dirigent
+    Beløp:  -250000.00 
+
+  6770: # Instruktørutgifter
+    Beløp:  -80000.00 
+
+  6820: # Reklamekostnad
+    Beløp:  -2000.00 
+
+  6810: # Datakostnad
+    Beløp:  -8000.00
+
+  6561: # Salgsvogn/Henger
+    Beløp:  -10000.00 
+
+  6860: # Møter, kurs, oppdatering etc.
+    Beløp:  -5000.00 
+
+  7430: # Gaver
+    Beløp:  -10000.00 
+
+  7770: # Bank og kortgebyr
+    Beløp:  -2000.00 
+
+  7771: # Kostnader Vipps
+    Beløp:  -5000.00 
+
+  7772: # Kostnader Spond
+    Beløp:  -20000.00 
+
+  5993: # Sosiale kostnader
+    Beløp: -30000
+
+  7162: # Bevertning
+    Beløp: -10000
+  
+  7415: # Påmeldinger serier, turneringer etc
+    Beløp: -4000
+  
+  7410: # Kontingent, ikke fradragsberettiget
+    Beløp: -2500
+  
+  6890: # Annen kostnad (diverse)
+    Beløp: -50000
+
+  7799: # Annen kostnad, ikke fradragsberettiget
+    Beløp: -1000
+  
